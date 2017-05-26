@@ -45,3 +45,6 @@ $(document).scroll(function(){
   myAnim('bounceInRight');
 
 });
+
+
+$('.dot').Stickyfill();
